@@ -4,7 +4,7 @@ an old project...
 
 It's a huge framework based on Processing very inspired by Flash/Actionscript.
 
-It reproduce every functions of Processing with a object oriented structure (contrary to Processing who do everything in the same object)
+It reproduce every functions of Processing with an object oriented structure (contrary to Processing who do everything in the same object)
 
 It handle 2D rendering , 3D rendering , OOP-shader creation and Box2D integration (physic engine) is a whole part of the framework.
 
