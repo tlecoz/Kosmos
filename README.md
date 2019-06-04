@@ -2,7 +2,7 @@
 
 an old project... 
 
-It's a huge framework based on Processing very inspired by Flash/Actionscript.
+It's a framework based on Processing very inspired by Flash/Actionscript.
 
 It reproduce every functions of Processing with an object oriented structure (contrary to Processing who do everything in the same object)
 
